@@ -20,7 +20,7 @@ pip (Python package installer)
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/book-recommendation-system.git
+git clone https://github.com/sharan-g/book-recommendation-system.git
 cd book-recommendation-system
 Install Dependencies
 bash
